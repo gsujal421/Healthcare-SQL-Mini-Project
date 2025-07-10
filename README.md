@@ -21,7 +21,7 @@ This project simulates SQL-driven business analysis for a hospital database. It 
 | `PLTV Calculation` | Measures lifetime revenue per patient |
 | `Inactive Patient Identification` | Flags patients with no activity in 6 months |
 | `Procedure Cost Outliers` | Spots anomalies in medical billing |
-| `Patient Journey Mapping` | Charts treatment progression using window functions |
+
 
 ## 🛠️ Tech Stack
 - **SQL**: MySQL for querying and data analysis
