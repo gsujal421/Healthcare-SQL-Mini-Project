@@ -30,7 +30,7 @@ This project simulates SQL-driven business analysis for a hospital database. It 
 ## 📈 Sample Insights
 - *Departmental Revenue*: Allergists generated ₹5.66 Crore
 - *Top Procedure*: Chemotherapy generated ₹1.19 Crore
-- *Highest PLTV*: ₹4,03,5149 from a single patient
+- *Highest PLTV*: ₹40,35,149 from a single patient
 - *Peak Appointment Month*: Month 6
 - *Inactive Patients*: Detected via non-engagement in 180-day window
 
